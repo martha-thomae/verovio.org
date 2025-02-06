@@ -5,7 +5,7 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>Principles of Imperfection and Alteration - Basic Tests: Two Notes</title>
+            <title>Principles of Imperfection and Alteration - Basic Tests: Four Notes</title>
          </titleStmt>
          <pubStmt>
             <date isodate="2025-02-05">2025-02-05</date>
@@ -42,32 +42,35 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="sjfrbfh1">
-                     <staff xml:id="sdg7hst1" n="1">
-                        <layer xml:id="llnskeb" n="1">
+                     <staff xml:id="s1nu8nw2" n="1">
+                        <layer xml:id="lvssck21" n="1">
                            <mensur modusmaior="2" modusminor="2" prolatio="2" tempus="3" sign="O" dot="false"/>
-                           <!-- 2 Semibreves - Alteration -->
-                           <note xml:id="nvzv8731" dur="brevis" oct="4" pname="c"/>
-                           <barLine xml:id="baju6u1" form="dashed"/>
-                           <note xml:id="nqb7tjh1" dur="semibrevis" oct="4" pname="c"/>
-                           <note xml:id="nzw5wgu2" dur="semibrevis" oct="4" pname="c" color="violet"/>
-                           <barLine xml:id="b6u1" form="dashed"/>
-                           <note xml:id="naudxyw1" dur="brevis" oct="4" pname="c"/>
-                           <barLine xml:id="bhet54v1" form="dashed"/>
+                           <!-- 4 Semibreves - Imperfection a.p.p. -->
+                           <note xml:id="nab7fp61" dur="brevis" oct="4" pname="c" color="violet"/>
+                           <note xml:id="nrl1z0j1" dur="semibrevis" oct="4" pname="c"/>
+                           <barLine xml:id="b2ce31" form="dashed"/>
+                           <note xml:id="ntrmzd61" dur="semibrevis" oct="4" pname="c"/>
+                           <note xml:id="nnqvfu91" dur="semibrevis" oct="4" pname="c"/>
+                           <note xml:id="n4afipo2" dur="semibrevis" oct="4" pname="c"/>
+                           <barLine xml:id="b2m8ce" form="dashed"/>
+                           <note xml:id="nb2ote81" dur="brevis" oct="4" pname="c"/>
+                           <barLine xml:id="b2m8ce31" form="dashed"/>
                         </layer>
                      </staff>
-                     <staff xml:id="s9x3ujp2" n="2">
-                        <layer xml:id="lbw1aul2" n="1">
+                     <staff xml:id="sunzni1" n="2">
+                        <layer xml:id="l3eoezb" n="1">
                            <mensur modusmaior="2" modusminor="2" prolatio="2" tempus="3" sign="O" dot="false"/>
-                           <!-- 2 Semibreves - EXCEPTION: Dot of Imperfection - Imp. a.p.p. & Imp a.p.a. -->
-                           <note xml:id="ndl57s61" dur="brevis" oct="4" pname="c" color="violet"/>
-                           <note xml:id="ni2i30d1" dur="semibrevis" oct="4" pname="c"/>
-                           <dot xml:id="dh3gpgx1"/>
-                           <barLine xml:id="aoju6u1" form="dashed"/>
-                           <note xml:id="nhyk5ql2" dur="semibrevis" oct="4" pname="c"/>
-                           <note xml:id="nhyawp01" dur="brevis" oct="4" pname="c" color="violet"/>
-                           <barLine xml:id="bbaoblx1" form="dashed"/>
-                           <rest xml:id="ntik74ah3" dur="brevis"/>
-                           <barLine xml:id="bnha0kj2" form="dashed"/>
+                           <!-- 4 Semibreves - EXCEPTION: Dot of Perfection - Imperfection a.p.a. -->
+                           <note xml:id="n906ck51" dur="brevis" oct="4" pname="c"/>
+                           <dot xml:id="dnyrstg"/>
+                           <barLine xml:id="bse84" form="dashed"/>
+                           <note xml:id="nc03lb51" dur="semibrevis" oct="4" pname="c"/>
+                           <note xml:id="njr66bt1" dur="semibrevis" oct="4" pname="c"/>
+                           <note xml:id="n3n4hxc" dur="semibrevis" oct="4" pname="c"/>
+                           <barLine xml:id="bsenr" form="dashed"/>
+                           <note xml:id="npplxv9" dur="semibrevis" oct="4" pname="c"/>
+                           <note xml:id="n4sbgtz2" dur="brevis" oct="4" pname="c" color="violet"/>
+                           <barLine xml:id="bsenr84" form="dashed"/>
                         </layer>
                      </staff>
                      <staff xml:id="s8fogqh1" n="3">
